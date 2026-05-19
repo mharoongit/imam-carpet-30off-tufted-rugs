@@ -1,7 +1,12 @@
 {
   "permissions": {
     "allow": [
-      "Skill(update-config)"
+      "Skill(update-config)",
+      "Bash(git remote *)",
+      "mcp__claude_ai_Shopify__get-shop-info",
+      "mcp__claude_ai_Shopify__switch-shop",
+      "Bash(shopify auth *)",
+      "Bash(shopify whoami *)"
     ]
   }
 }
