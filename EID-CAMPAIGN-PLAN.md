@@ -1,6 +1,6 @@
 # Eid 2026 Sale — Hand Tufted Rugs (Imam Carpets, Pakistan)
 
-> Mirror of approved plan from `~/.claude/plans/i-want-to-run-silly-cook.md` · v2 · 19 May 2026
+> v2 · approved by Shahzaib · 19 May 2026 · **canonical plan — read this one**
 
 ## Context
 
