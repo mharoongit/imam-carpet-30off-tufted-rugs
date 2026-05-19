@@ -71,11 +71,13 @@ Scarcity · loss aversion · authority (1952) · reciprocity (free delivery + ca
 ---
 
 ## Pre-Launch Open Items (from Shahzaib)
-1. Imam Carpets BM/ad account ID.
+1. ~~Imam Carpets BM/ad account ID.~~ ✅ **BM: 145166706590306 · Ad account: 2130004033776229** (confirmed 19 May 2026)
 2. WhatsApp opted-in list size (rough).
 3. Email list size + last open rate.
 4. Karachi same-day delivery cutoff time.
 5. Confirm Umair full-time on WhatsApp during 8-day window.
+
+**Still needed:** pixel ID + confirm pixel firing on Shopify (Haroon to verify in Events Manager).
 
 ---
 

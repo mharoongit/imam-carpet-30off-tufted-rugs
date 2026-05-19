@@ -6,6 +6,9 @@ A log of changes made to this project, newest first.
 
 ## [Unreleased]
 
+### 2026-05-19 (Eid open item #1 closed)
+- BM ID confirmed: 145166706590306. Ad account: 2130004033776229. Logged into `EID-CAMPAIGN-PLAN.md`. Pixel verification still pending (Haroon).
+
 ### 2026-05-19 (Eid campaign planning)
 - Drafted Eid 2026 sale campaign for hand-tufted rugs collection. 8-day window 20–26 May (Eid = 27 May).
 - Channels: WhatsApp (Umair via Interakt), Omnisend email (Shahzaib), Meta paid ~PKR 80k (Shahzaib + Haroon), IG/Pinterest organic in-house (Zubair + Shahzaib), Shopify site CRO (Zubair). Inventory/orders: Emaan.
