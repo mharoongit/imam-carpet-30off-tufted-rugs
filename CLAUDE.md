@@ -30,6 +30,10 @@ This is a beginner-friendly project. Keep code simple, readable, and well-organi
 - Keep functions short — one function, one responsibility.
 - Format code consistently before committing.
 
+## Workflow Rules
+
+- Every time work done in this project: update `TASKS.md` (mark done / add new tasks) AND log work in `HISTORY.md` with date + short description.
+
 ## Commit Style
 
 Use short, clear commit messages:

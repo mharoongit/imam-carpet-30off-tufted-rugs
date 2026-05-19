@@ -19,6 +19,7 @@ Track what needs to be done, what is in progress, and what is finished.
 ## Done
 
 - [x] Created initial project files (CLAUDE.md, HISTORY.md, TASKS.md, README.md, .gitignore).
+- [x] Applied 30% off to 40 Hand Tufted Rug products on Shopify (2026-05-19).
 
 ---
 

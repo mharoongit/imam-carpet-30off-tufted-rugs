@@ -6,6 +6,11 @@ A log of changes made to this project, newest first.
 
 ## [Unreleased]
 
+### 2026-05-19
+- Bulk applied 30% off across 40 Hand Tufted Rug products on Shopify store (price = 70% of compareAtPrice). Updates ran ~06:35–06:36 UTC.
+- Added Workflow Rules section to CLAUDE.md: every project task must update TASKS.md + log in HISTORY.md.
+
+### Earlier
 - Initial project structure created.
 - Added CLAUDE.md, HISTORY.md, TASKS.md, README.md, and .gitignore.
 
