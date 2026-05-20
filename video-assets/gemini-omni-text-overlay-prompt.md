@@ -1,81 +1,102 @@
-# Gemini Omni Prompt — Add Text Overlay to Tufted Rugs Video
+# Gemini Omni Prompts — Text Overlay Only (3 runs: 10s + 10s + 3s = 23s)
 
-> Use case: 10-sec reference clip already attached. Omni should EXTEND clip to 23s and burn in 7 text beats. No new scenes, no new locations — keep the look, lighting, colour grade, and pace of the reference clip.
+> Workflow: 3 separate Omni runs. Each run attaches its own reference clip. Omni's job = ONLY add text overlay on top of the attached clip. Do NOT generate new visuals, new scenes, new motion. Just text on existing footage. Stitch the 3 outputs in CapCut after.
+
+> Time stamps below are LOCAL to each clip (0s = start of that clip).
 
 ---
 
-## Master Prompt (paste into Gemini Omni)
+## RUN 1 — First 10 seconds (attach Clip 1)
 
 ```
-Using the attached 10-second reference clip of hand-tufted rugs as the visual anchor, generate a 23-second vertical 9:16 video that keeps the exact same look, lighting, colour grade, lens, and pacing of the reference. Do NOT invent new locations, props, or models — extend the existing clip naturally, loop or slow-mo sections where needed to reach 23 seconds.
+You are given a 10-second vertical 9:16 tufted rug video. DO NOT modify the footage. DO NOT generate new visuals, change colour grade, alter motion, or extend length. Output length must equal input length exactly (10.0 seconds).
 
-Match the reference for: colour palette, depth of field, camera movement style, rug texture rendering, and overall premium feel.
+Your ONLY task: burn in white bold sans-serif text overlays at the exact timings below. Font: Anton, Bebas Neue, or Inter Black. Pure white text with a soft black drop shadow (or translucent black pill behind text) for mobile readability. Smooth 0.2s fade in and 0.2s fade out on every card. No two cards overlap. Spelling exact — do not warp, hallucinate, or auto-correct letters.
 
-Your only job beyond extending is to BURN IN ON-SCREEN TEXT across 7 timed beats. Text must be bold sans-serif (Anton, Bebas Neue, or Inter Black), pure white, with a soft black drop shadow OR a translucent black pill behind the text for readability. Centre-aligned for hook/offer/urgency/CTA. Lower-third for proof/trust/delivery. Smooth fade-in (0.2s) and fade-out (0.2s) on each card. Never let two cards overlap. Spelling MUST be exact — do not warp or hallucinate letters.
+TEXT BEATS:
 
-TIMED TEXT BEATS:
-
-- 0.0–2.5s — centre, big
+- 0.0–2.5s — CENTRE, large
   Line 1: HAND TUFTED RUGS
   Line 2 (smaller, italic): Made in Pakistan
 
-- 2.5–6.0s — centre, huge, deep-red underline under "30% OFF"
+- 2.5–6.0s — CENTRE, very large. Add deep-red underline under "30% OFF" only.
   Line 1: 30% OFF
   Line 2 (smaller): Eid Sale — All 40 designs
 
-- 6.0–10.0s — lower third
+- 6.0–10.0s — LOWER THIRD
   Line 1: Wool + viscose
   Line 2 (smaller, italic): Loop by loop. By hand.
 
-- 10.0–13.5s — lower third
+NEGATIVE: no extra text, no subtitles, no watermarks, no captions, no emojis, no logos, no neon/glow, no spinning, no spelling variants, no language other than English. Do not re-render the footage.
+
+OUTPUT: 9:16 vertical 1080×1920, 24fps, 10.0 seconds, MP4.
+```
+
+---
+
+## RUN 2 — Middle 10 seconds (attach Clip 2)
+
+```
+You are given a 10-second vertical 9:16 tufted rug video. DO NOT modify the footage. DO NOT generate new visuals, change colour grade, alter motion, or extend length. Output length must equal input length exactly (10.0 seconds).
+
+Your ONLY task: burn in white bold sans-serif text overlays at the exact timings below. Font: Anton, Bebas Neue, or Inter Black. Pure white with soft black drop shadow. 0.2s fade in / 0.2s fade out per card. No overlap. Spelling exact.
+
+TEXT BEATS (timings are LOCAL to this 10-sec clip):
+
+- 0.0–3.5s — LOWER THIRD
   Line 1: 70+ years of handmade rugs
   Line 2 (smaller): Imam Carpets, since 1952
 
-- 13.5–17.0s — lower third
+- 3.5–7.0s — LOWER THIRD
   Line 1: Free delivery all Pakistan
   Line 2 (smaller): Karachi — same day
 
-- 17.0–20.0s — centre, red
+- 7.0–10.0s — CENTRE, in deep red (not white)
   Single line: Ends 26 May — Midnight
 
-- 20.0–23.0s — centre, very big
+NEGATIVE: no extra text, no subtitles, no watermarks, no emojis, no logos other than the words "Imam Carpets" inside the first card, no neon, no spelling variants, no extra languages. Do not re-render the footage.
+
+OUTPUT: 9:16 vertical 1080×1920, 24fps, 10.0 seconds, MP4.
+```
+
+---
+
+## RUN 3 — Final 3 seconds (attach Clip 3)
+
+```
+You are given a 3-second vertical 9:16 tufted rug video. DO NOT modify the footage. DO NOT generate new visuals or extend length. Output length must equal input length exactly (3.0 seconds).
+
+Your ONLY task: burn in a single end-card text overlay, full duration.
+
+TEXT BEAT:
+
+- 0.0–3.0s — CENTRE, very large, white bold sans-serif (Anton / Bebas / Inter Black), soft black drop shadow. Hold full duration with a 0.2s fade in only (no fade out).
   Line 1: SHOP NOW
   Line 2 (smaller): imamcarpets.com
 
-NEGATIVE: no extra text other than the 7 beats above, no watermark, no spelling variants, no glow/neon effects, no spinning text, no emoji, no logos other than the words "Imam Carpets" inside beat 4, no caption-style subtitles, no auto-generated subtitles, no extra languages.
+NEGATIVE: no extra text, no subtitles, no watermarks, no emojis, no logos other than the words inside the card, no neon, no spinning. Do not re-render the footage.
 
-OUTPUT: 9:16 vertical, 1080×1920, 23.0 seconds, 24fps, MP4.
+OUTPUT: 9:16 vertical 1080×1920, 24fps, 3.0 seconds, MP4.
 ```
 
 ---
 
-## Shorter Prompt (if char limit)
+## Stitching (CapCut / Premiere)
+1. Drop Run 1 → Run 2 → Run 3 on the timeline in order, no transition.
+2. Hard cut between each. Total = 23.0s exactly.
+3. Add music bed: soft oud + light tabla, low BPM, royalty-free. Volume −18dB.
+4. Export 1080×1920 H.264, then 1:1 + 4:5 reframes for Meta feed.
 
-```
-Extend the attached 10-sec tufted rug reference clip to 23 sec, keeping the exact same look, grade, and pace. Burn in 7 white bold sans-serif text beats with thin black shadow, spelling exact, no warping:
-(1) 0.0–2.5s centre "HAND TUFTED RUGS / Made in Pakistan"
-(2) 2.5–6.0s centre huge "30% OFF / Eid Sale — All 40 designs" (red underline on 30% OFF)
-(3) 6.0–10.0s lower-third "Wool + viscose / Loop by loop. By hand."
-(4) 10.0–13.5s lower-third "70+ years of handmade rugs / Imam Carpets, since 1952"
-(5) 13.5–17.0s lower-third "Free delivery all Pakistan / Karachi — same day"
-(6) 17.0–20.0s centre red "Ends 26 May — Midnight"
-(7) 20.0–23.0s centre big "SHOP NOW / imamcarpets.com"
-Smooth 0.2s fade in/out, no overlap, no extra text, no watermark, no neon, no emoji. 9:16 1080×1920 24fps 23.0s MP4.
-```
-
----
-
-## QA Checklist Before Shipping
-- [ ] All 7 beats present in correct order
-- [ ] No spelling errors / warped letters (re-gen if any)
-- [ ] "30% OFF" has red underline
-- [ ] "Ends 26 May — Midnight" is red
-- [ ] CTA last 3 sec reads cleanly on mobile preview
-- [ ] No overlap between cards
-- [ ] Total length = 23.0s exactly
-- [ ] No phantom subtitles / extra logos
+## QA Before Shipping
+- [ ] Run 1: 3 cards present, "30% OFF" has red underline
+- [ ] Run 2: "Ends 26 May — Midnight" is in red
+- [ ] Run 3: "SHOP NOW / imamcarpets.com" holds full 3 sec
+- [ ] No spelling errors / warped letters anywhere (re-gen if any)
+- [ ] Total stitched length = 23.0s exact
+- [ ] No phantom subtitles or extra logos
+- [ ] Mobile preview readable, captions not cut off by safe-area
 
 ## Owner
-- Run prompt: **Zubair** (or Shahzaib).
+- Run prompts + stitch: **Zubair** (or Shahzaib).
 - QA + approval: **Shahzaib**.
-- Upload to Meta Ads (BM 145166706590306 / Ad account 2130004033776229): **Haroon**.
+- Meta upload (BM 145166706590306 / Ad account 2130004033776229): **Haroon**.
