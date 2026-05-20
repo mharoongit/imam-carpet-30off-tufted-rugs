@@ -6,6 +6,9 @@ A log of changes made to this project, newest first.
 
 ## [Unreleased]
 
+### 2026-05-20 (Tufted video text plan)
+- Drafted text-overlay plan for existing silent 23-sec tufted rugs video. 7 beats: Hook → 30% OFF → Proof → Since 1952 → Free delivery → Ends 26 May → CTA. Includes 3 alt cuts (Karachi, price anchor, static), aspect ratios, ad copy. Saved to `video-assets/tufted-video-text-plan.md`. Owners: Zubair edit, Shahzaib approve, Haroon upload.
+
 ### 2026-05-19 (Eid open item #1 closed)
 - BM ID confirmed: 145166706590306. Ad account: 2130004033776229. Logged into `EID-CAMPAIGN-PLAN.md`. Pixel verification still pending (Haroon).
 

@@ -25,6 +25,7 @@ Track what needs to be done, what is in progress, and what is finished.
 - [ ] Kill any sub-1.5 ROAS adset by Day 4
 
 ### Zubair (Design + Listings + Site)
+- [ ] Add text overlays to existing 23-sec tufted rugs video per `video-assets/tufted-video-text-plan.md` (Version A + Karachi cut B + static D); export 9:16, 1:1, 4:5
 - [ ] Duplicate Sleek theme for edits (do not touch live)
 - [ ] Build site-wide announcement bar "Eid Sale: 30% off · ends 26 May" → collection link
 - [ ] Build collection page hero: countdown + Karachi same-day / non-Karachi 23 May cutoff
