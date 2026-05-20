@@ -27,8 +27,8 @@
 |---|---|---|---|---|
 | 1. Hook | 0.0 – 2.5s | **HAND TUFTED RUGS** <br> *Made in Pakistan* | Centre, big | Set authority immediately |
 | 2. Offer | 2.5 – 6.0s | **30% OFF** <br> *Eid Sale — All 40 designs* | Centre, huge, red underline | Core message |
-| 3. Proof | 6.0 – 10.0s | Plush. Heavy. Hand-knotted finish. | Lower third | Let the shot breathe |
-| 4. Trust | 10.0 – 13.5s | **Since 1952** <br> Imam Carpets, Karachi | Lower third | Anti-scam, authority |
+| 3. Proof | 6.0 – 10.0s | **Wool + viscose** <br> *Loop by loop. By hand.* | Lower third | Pulled from collection desc — accurate craft language |
+| 4. Trust | 10.0 – 13.5s | **70+ years of handmade rugs** <br> Imam Carpets, since 1952 | Lower third | Authority, anti-scam |
 | 5. Delivery | 13.5 – 17.0s | **Free delivery all Pakistan** <br> Karachi → same day | Lower third | Removes friction |
 | 6. Urgency | 17.0 – 20.0s | **Ends 26 May — Midnight** | Centre, red | Loss aversion |
 | 7. CTA | 20.0 – 23.0s | **WhatsApp us now** <br> imamcarpets.com | Centre + logo bug | Close |
@@ -71,7 +71,7 @@ Royalty-free Arabic / soft oud instrumental, low BPM. No copyrighted Eid nasheed
 ## Ad Copy (paired with the video)
 
 **Primary text:**
-> Eid Sale is live. 30% off every hand-tufted rug in our collection — 40 designs, all hand-finished in Pakistan. Free delivery nationwide. Karachi: same-day. Ends 26 May, midnight.
+> Eid Sale is live. 30% off every hand-tufted rug — 40 contemporary designs in generous sizes, built loop by loop in wool and viscose. Made for large living spaces. Small batches, each piece its own. Free delivery all Pakistan. Karachi: same-day. Ends 26 May, midnight. Imam Carpets — 70+ years of handmade rugs.
 
 **Headline:** 30% OFF Hand-Tufted Rugs
 **CTA button:** Shop Now (or Send WhatsApp Message for Karachi set)
