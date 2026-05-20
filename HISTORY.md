@@ -6,6 +6,13 @@ A log of changes made to this project, newest first.
 
 ## [Unreleased]
 
+### 2026-05-20 (Omni overlay rewrite — shot-aligned)
+- Analyzed source reel `Tufted Reel Without Logo.mp4` (23.15s) via VideoDB shot-by-shot indexing. 10 visual segments mapped.
+- Pulled live Shopify data for `Hand Tufted Rugs` collection: 40 SKUs, wool+viscose, sizes 8×5 to 13×9 ft, PKR 98k–263k.
+- Corrected overlay copy: dropped wrong claims ("50+ colors", "custom sizes", UK delivery). Replaced with real positioning: 70+ yrs craft, since 1952, big-room sizes, 40 designs, Pakistan delivery.
+- Rewrote `video-assets/gemini-omni-text-overlay-prompt.md` with per-shot timed overlays for Run 1 (0–10s), Run 2 (10–20s), Run 3 (20–23s CTA).
+- Installed `videodb` + `python-dotenv` SDKs. Saved API key to project `.env` (gitignored).
+
 ### 2026-05-20 (Tufted video text plan)
 - Drafted text-overlay plan for existing silent 23-sec tufted rugs video. 7 beats: Hook → 30% OFF → Proof → Since 1952 → Free delivery → Ends 26 May → CTA. Includes 3 alt cuts (Karachi, price anchor, static), aspect ratios, ad copy. Saved to `video-assets/tufted-video-text-plan.md`. Owners: Zubair edit, Shahzaib approve, Haroon upload.
 
