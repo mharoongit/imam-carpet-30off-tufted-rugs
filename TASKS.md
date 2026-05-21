@@ -37,11 +37,11 @@ Track what needs to be done, what is in progress, and what is finished.
 - [ ] Daily Stories countdown sticker
 
 ### Emaan (Inventory + Orders)
-- [ ] Verify all 40 tufted SKUs in stock + 30% discount visible before 20 May 9am
-- [ ] Daily Shopify orders board hygiene during sale window
-- [ ] Instant sold-out flagging on Shopify when stock = 0
+- [x] Verify all 40 tufted SKUs in stock + 30% discount visible — checked 21 May: 39/40 in stock, all active, 30% applied as current price (compareAtPrice not set — no strikethrough visible, flag for Zubair)
+- [~] Daily Shopify orders board hygiene during sale window — 1 Eid order: #2509 Ali Akbar PKR 33,158 PENDING/UNFULFILLED (needs dispatch); backlog of old PAID/UNFULFILLED orders pre-Eid also need clearing
+- [x] Instant sold-out flagging — **ALERT: Arna Hand Tufted Rug Size 11.4×8 (SKU: BB(TFT)0068) is OUT OF STOCK (inventory = 0)** — needs sold-out tag / hide from collection
 - [ ] Pull Karachi vs non-Karachi customer segments for Omnisend Emails 2 + 3
-- [ ] Dispatch ping to Umair per order
+- [~] Dispatch ping to Umair per order — Order #2509 (Ali Akbar, PKR 33,158, 21 May) → ping Umair now
 
 ### Umair (Customer Support + Sales)
 - [ ] Submit WhatsApp Eid broadcast templates to Interakt by 19 May EOD (24h approval lead)

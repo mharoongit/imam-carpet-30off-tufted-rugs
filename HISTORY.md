@@ -6,6 +6,13 @@ A log of changes made to this project, newest first.
 
 ## [Unreleased]
 
+### 2026-05-21 (Emaan daily ops check)
+- Verified all 40 Hand Tufted SKUs on Shopify: all ACTIVE, 39/40 in stock.
+- OUT OF STOCK FLAG: Arna Hand Tufted Rug 11.4×8 (SKU: BB(TFT)0068) — inventory = 0. Needs sold-out label / hide from collection.
+- compareAtPrice NOT set on any tufted product — 30% discount applied as current price only, no strikethrough visible to customers. Zubair to action via theme sticker as planned.
+- Eid sale orders (20–21 May): 1 order — #2509 Ali Akbar PKR 33,158.40 PENDING/UNFULFILLED. Dispatch ping to Umair required.
+- Orders board: old PAID/UNFULFILLED backlog pre-Eid identified. Needs manual review and cleanup.
+
 ### 2026-05-20 (Omni overlay rewrite — shot-aligned)
 - Analyzed source reel `Tufted Reel Without Logo.mp4` (23.15s) via VideoDB shot-by-shot indexing. 10 visual segments mapped.
 - Pulled live Shopify data for `Hand Tufted Rugs` collection: 40 SKUs, wool+viscose, sizes 8×5 to 13×9 ft, PKR 98k–263k.
