@@ -72,3 +72,4 @@ When you release a version, rename `[Unreleased]` to the version number and date
 - Added Meta campaign structure planning
 - Added KPI / ROAS dashboard planning
 - Added Shopify QA checklist for Eid campaign
+- Added Meta Ads launch checklist planning
