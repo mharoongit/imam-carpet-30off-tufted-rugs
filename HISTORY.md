@@ -59,3 +59,13 @@ When you release a version, rename `[Unreleased]` to the version number and date
 ---
 
 *Follow [Keep a Changelog](https://keepachangelog.com) conventions.*
+
+## Progress Update — Haroon
+## May 21, 2026
+### Completed Tasks
+- Verified Meta Pixel firing on Shopify
+- Confirmed PageView and InitiateCheckout events in Meta Events Manager
+- Connected Shopify with Meta Pixel successfully
+- Created meta-creatives planning structure
+- Added Karachi, Rest of Pakistan, and DPA creative planning files
+- Removed accidental image upload from repository
