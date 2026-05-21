@@ -70,3 +70,4 @@ When you release a version, rename `[Unreleased]` to the version number and date
 - Added Karachi, Rest of Pakistan, and DPA creative planning files
 - Removed accidental image upload from repository
 - Added Meta campaign structure planning
+- Added KPI / ROAS dashboard planning
