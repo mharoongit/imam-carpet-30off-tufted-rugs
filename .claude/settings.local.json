@@ -6,7 +6,9 @@
       "mcp__claude_ai_Shopify__get-shop-info",
       "mcp__claude_ai_Shopify__switch-shop",
       "Bash(shopify auth *)",
-      "Bash(shopify whoami *)"
+      "Bash(shopify whoami *)",
+      "mcp__claude_ai_META__ads_get_ad_accounts",
+      "WebFetch(domain:raw.githubusercontent.com)"
     ]
   }
 }

@@ -69,6 +69,7 @@ When you release a version, rename `[Unreleased]` to the version number and date
 
 ## Progress Update — Haroon
 ## May 21, 2026
+
 ### Completed Tasks
 - Verified Meta Pixel firing on Shopify
 - Confirmed PageView and InitiateCheckout events in Meta Events Manager
@@ -83,3 +84,7 @@ When you release a version, rename `[Unreleased]` to the version number and date
 - Added audience targeting strategy planning
 - Added Meta ad copy planning for Eid 2026 campaign
 - Added retargeting strategy planning
+- Added daily Meta ads optimisation workflow
+- Connected Meta Ads MCP server workflow
+- Regenerated Meta access token
+- Organised VS Code workspace for Meta ads operations

@@ -47,11 +47,25 @@ Update task list
 ## Progress Update — Haroon
 
 ## May 21, 2026
-### Completed
-- Meta Pixel verification completed successfully
-- Shopify + Meta Events integration confirmed
-- Creative planning structure initialized
-- Karachi / Rest-PK / DPA folders and planning files added
+
+### Completed Tasks
+- Verified Meta Pixel firing on Shopify
+- Confirmed PageView and InitiateCheckout events in Meta Events Manager
+- Connected Shopify with Meta Pixel successfully
+- Created meta-creatives planning structure
+- Added Karachi, Rest of Pakistan, and DPA creative planning files
+- Removed accidental image upload from repository
+- Added Meta campaign structure planning
+- Added KPI / ROAS dashboard planning
+- Added Shopify QA checklist for Eid campaign
+- Added Meta Ads launch checklist planning
+- Added audience targeting strategy planning
+- Added Meta ad copy planning for Eid 2026 campaign
+- Added retargeting strategy planning
+- Added daily Meta ads optimisation workflow
+- Connected Meta Ads MCP server workflow
+- Regenerated Meta access token
+- Organised VS Code workspace for Meta ads operations
 
 ### Current Focus
 - Meta campaign structure

@@ -75,3 +75,32 @@ Track what needs to be done, what is in progress, and what is finished.
 - Add new tasks under **To Do**.
 - Move a task to **In Progress** when you start working on it.
 - Move it to **Done** and check the box `[x]` when complete.
+
+## To Do
+
+- [ ] Create live Eid campaign in Meta Ads Manager
+- [ ] Launch DPA campaign
+- [ ] Test retargeting audiences
+- [ ] Configure catalog feed optimisation
+- [ ] Build automated reporting workflow
+- [ ] Create additional lifestyle rug creatives
+- [ ] Prepare square and vertical ad formats
+- [ ] Test minimalist vs luxury creative angles
+- [ ] Verify long-term Meta token stability
+- [ ] Backup MCP configuration
+
+## In Progress
+
+- [ ] Meta creative production workflow
+- [ ] Audience scaling research
+
+## Done
+
+- [x] Verified Meta Pixel firing on Shopify
+- [x] Confirmed PageView and InitiateCheckout events
+- [x] Connected Shopify with Meta Pixel
+- [x] Added Meta campaign structure planning
+- [x] Added KPI / ROAS dashboard planning
+- [x] Added retargeting strategy planning
+- [x] Added daily Meta ads optimisation workflow
+- [x] Connected Meta Ads MCP workflow
