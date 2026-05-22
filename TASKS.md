@@ -18,7 +18,7 @@ Track what needs to be done, what is in progress, and what is finished.
 
 ### Haroon (E-Comm Ops + Meta Ads)
 - [ ] Build 3 Meta ad sets (Karachi RT · PK RT · Catalog DPA) once BM connected
-- [ ] Produce ad creative: Karachi same-day variant + Eid-cutoff variant + carousel of 5 best-sellers
+- [x] Produce ad creative: Karachi same-day variant + Eid-cutoff variant + carousel of 5 best-sellers — see `meta-creatives/eid-2026-ad-copy-final.md` (22 May)
 - [ ] Submit ads for review by 20 May
 - [ ] Confirm Meta pixel firing (Events Manager) before go-live
 - [ ] Daily budget check 11am + ROAS update 6pm in shared sheet

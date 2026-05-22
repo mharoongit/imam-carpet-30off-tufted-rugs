@@ -6,6 +6,12 @@ A log of changes made to this project, newest first.
 
 ## [Unreleased]
 
+### 2026-05-22 (Haroon — ad creative production)
+- Generated full Meta ad creative suite for Eid 2026 campaign.
+- 3 variants: Karachi same-day (A1 minimalist, A2 luxury, A3 urgency), Rest of PK cutoff (B1–B3), Carousel 5-card.
+- Testing matrix defined: minimalist vs luxury per ad set. Day 4 pause rule documented.
+- Saved to `meta-creatives/eid-2026-ad-copy-final.md`. Ready for Zubair to attach visuals and submit for review.
+
 ### 2026-05-21 (Emaan daily ops check)
 - Verified all 40 Hand Tufted SKUs on Shopify: all ACTIVE, 39/40 in stock.
 - OUT OF STOCK: Arna Hand Tufted Rug 11.4×8 (SKU: BB(TFT)0068) inventory = 0 → set to DRAFT (hidden from storefront) immediately.
