@@ -6,6 +6,13 @@ A log of changes made to this project, newest first.
 
 ## [Unreleased]
 
+### 2026-05-22 (Haroon — Eid campaign retargeting setup)
+- Completed full Meta campaign setup for two Eid campaigns: Hand Tufted Rugs Collection + Jute Rugs Collection.
+- Configured 3 retargeting ad sets per campaign: Karachi Same Day, Rest of Pakistan, DPA (ATC / IC / Website Visitors 60d).
+- Budget structure: Adset A = PKR 4k/day, Adset B = PKR 4k/day, Adset C = PKR 2k/day → PKR 10k/day per campaign (PKR 20k/day total).
+- Added static creatives, video creatives, Meta ad copy, catalog setup, retargeting audiences, purchase optimisation, and collection URLs.
+- Both campaigns saved in DRAFT status — awaiting Shahzaib approval before publish.
+
 ### 2026-05-22 (Haroon — ad creative production)
 - Generated full Meta ad creative suite for Eid 2026 campaign.
 - 3 variants: Karachi same-day (A1 minimalist, A2 luxury, A3 urgency), Rest of PK cutoff (B1–B3), Carousel 5-card.

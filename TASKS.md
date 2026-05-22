@@ -17,10 +17,10 @@ Track what needs to be done, what is in progress, and what is finished.
 - [ ] Post-Eid retro 28 May → update KB
 
 ### Haroon (E-Comm Ops + Meta Ads)
-- [ ] Build 3 Meta ad sets (Karachi RT · PK RT · Catalog DPA) once BM connected
+- [x] Build 3 Meta ad sets (Karachi RT · PK RT · Catalog DPA) — DONE 22 May for both Hand Tufted + Jute campaigns
 - [x] Produce ad creative: Karachi same-day variant + Eid-cutoff variant + carousel of 5 best-sellers — see `meta-creatives/eid-2026-ad-copy-final.md` (22 May)
-- [ ] Submit ads for review by 20 May
-- [ ] Confirm Meta pixel firing (Events Manager) before go-live
+- [ ] Submit ads for review — campaigns in DRAFT, awaiting Shahzaib approval before publish
+- [x] Confirm Meta pixel firing (Events Manager) before go-live — confirmed 21 May
 - [ ] Daily budget check 11am + ROAS update 6pm in shared sheet
 - [ ] Kill any sub-1.5 ROAS adset by Day 4
 
@@ -96,6 +96,22 @@ Track what needs to be done, what is in progress, and what is finished.
 
 ## Done
 
+### Haroon — 22 May 2026 (Eid Campaign Retargeting Setup)
+- [x] Configured Hand Tufted Rugs Collection Campaign (retargeting + DPA)
+- [x] Configured Jute Rugs Collection Campaign (retargeting + DPA)
+- [x] Set up Karachi Same Day Retargeting ad set (PKR 4k/day) for both campaigns
+- [x] Set up Rest of Pakistan Retargeting ad set (PKR 4k/day) for both campaigns
+- [x] Set up DPA Retargeting — ATC / IC / Website Visitors 60d ad set (PKR 2k/day) for both campaigns
+- [x] Added static creatives to both campaigns
+- [x] Added video creatives to both campaigns
+- [x] Added Meta ad copy to both campaigns
+- [x] Completed catalog setup
+- [x] Built retargeting audiences
+- [x] Configured purchase optimisation
+- [x] Added collection URLs for both campaigns
+- [x] Saved both campaigns in DRAFT — pending Shahzaib approval before publish
+
+### Haroon — Earlier
 - [x] Verified Meta Pixel firing on Shopify
 - [x] Confirmed PageView and InitiateCheckout events
 - [x] Connected Shopify with Meta Pixel

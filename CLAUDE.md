@@ -67,7 +67,17 @@ Update task list
 - Regenerated Meta access token
 - Organised VS Code workspace for Meta ads operations
 
+### 22 May 2026 — Haroon (Eid Campaign Retargeting Setup)
+- Completed full Meta campaign setup for Hand Tufted Rugs Collection Campaign
+- Completed full Meta campaign setup for Jute Rugs Collection Campaign
+- Configured Karachi Same Day Retargeting (PKR 4k/day) for both campaigns
+- Configured Rest of Pakistan Retargeting (PKR 4k/day) for both campaigns
+- Configured DPA Retargeting — ATC / IC / Website Visitors 60d (PKR 2k/day) for both campaigns
+- Budget: PKR 10k/day per campaign (PKR 20k/day total)
+- Added static creatives, video creatives, Meta ad copy, catalog setup, retargeting audiences, purchase optimisation, collection URLs
+- Both campaigns in DRAFT — awaiting Shahzaib approval before publish
+
 ### Current Focus
-- Meta campaign structure
-- KPI / ROAS reporting setup
-- Ad creatives planning
+- Shahzaib approval for both Eid campaigns before publish
+- KPI / ROAS tracking once campaigns go live
+- Creative testing: minimalist vs luxury angles
