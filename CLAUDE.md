@@ -44,40 +44,135 @@ Add login page
 Fix typo in README
 Update task list
 ```
-## Progress Update — Haroon
 
-## May 21, 2026
+---
 
-### Completed Tasks
-- Verified Meta Pixel firing on Shopify
-- Confirmed PageView and InitiateCheckout events in Meta Events Manager
-- Connected Shopify with Meta Pixel successfully
-- Created meta-creatives planning structure
-- Added Karachi, Rest of Pakistan, and DPA creative planning files
-- Removed accidental image upload from repository
-- Added Meta campaign structure planning
-- Added KPI / ROAS dashboard planning
-- Added Shopify QA checklist for Eid campaign
-- Added Meta Ads launch checklist planning
-- Added audience targeting strategy planning
-- Added Meta ad copy planning for Eid 2026 campaign
-- Added retargeting strategy planning
-- Added daily Meta ads optimisation workflow
-- Connected Meta Ads MCP server workflow
+# Imam Carpets — Eid 2026 Meta Ads Operations
+
+## Latest GitHub Commit
+https://github.com/mharoongit/imam-carpet-30off-tufted-rugs/commit/fd5077160777f86c981a5f0b5338f8599aacdafd
+
+## Recent Operations
 - Regenerated Meta access token
 - Organised VS Code workspace for Meta ads operations
 
-### 22 May 2026 — Haroon (Eid Campaign Retargeting Setup)
+---
+
+## 22 May 2026 — Haroon (Eid Campaign Retargeting Setup)
+
+### Campaign Setup Completed
 - Completed full Meta campaign setup for Hand Tufted Rugs Collection Campaign
 - Completed full Meta campaign setup for Jute Rugs Collection Campaign
-- Configured Karachi Same Day Retargeting (PKR 4k/day) for both campaigns
-- Configured Rest of Pakistan Retargeting (PKR 4k/day) for both campaigns
-- Configured DPA Retargeting — ATC / IC / Website Visitors 60d (PKR 2k/day) for both campaigns
-- Budget: PKR 10k/day per campaign (PKR 20k/day total)
-- Added static creatives, video creatives, Meta ad copy, catalog setup, retargeting audiences, purchase optimisation, collection URLs
-- Both campaigns in DRAFT — awaiting Shahzaib approval before publish
 
-### Current Focus
-- Shahzaib approval for both Eid campaigns before publish
-- KPI / ROAS tracking once campaigns go live
-- Creative testing: minimalist vs luxury angles
+### Jute Rugs Campaign — LIVE
+- Budget: PKR 10,000/day
+- Objective: Purchase / ROAS
+
+#### Ad Set Structure
+- Ad Set A = PKR 4,000/day
+  - Major Cities
+  - WV-60D audience
+  - Static creatives
+
+- Ad Set B = PKR 4,000/day
+  - Major Cities
+  - WV-60D audience
+  - Video creatives
+
+- Ad Set C = PKR 2,000/day
+  - All Pakistan
+  - ATC + IC + WV 60D
+  - DPA / Catalog Retargeting
+
+### Meta Tracking Status
+- Meta Pixel active and verified
+- PageView event firing
+- ViewContent event firing
+- Search event firing
+- AddToCart event firing
+- InitiateCheckout event firing
+
+### WhatsApp Tracking
+- Created Meta Custom Conversion:
+  - Name: WhatsApp Click
+  - Data Source: Imam Carpets - Shop
+  - Action Source: Website
+  - Event Type: All URL Traffic
+  - Rule:
+    - URL contains wa.me
+  - Category: Contact
+
+### Omnisend Recovery
+- Omnisend abandoned cart workflow enabled
+- Checkout trigger workflow enabled
+- Cart trigger workflow enabled
+- Recovery delay configured (20 mins)
+- Exit conditions configured correctly
+
+### Interakt Setup
+- Interakt Shopify app connected
+- Basic automations enabled:
+  - Welcome
+  - Out of Office
+  - Delayed Response
+- WhatsApp support active
+- Advanced abandoned cart workflow not visible in current setup/plan
+
+---
+
+## KPI / ROAS Rules
+
+### Day 1–2
+Do not panic if purchases are low.
+
+Monitor:
+- CTR
+- CPC
+- AddToCart
+- InitiateCheckout
+- Landing Page Views
+
+### Day 4 Rule
+- Kill/pause ad sets below 1.5 ROAS
+
+---
+
+## Future Tracking Plan
+
+### Offline Conversion Tracking
+Future implementation planned for:
+- WhatsApp sales attribution
+- Showroom sales attribution
+- Offline Events upload to Meta
+
+### Planned Workflow
+1. Customer clicks Meta ad
+2. Customer opens WhatsApp / showroom inquiry
+3. Team records:
+   - Customer name
+   - Phone number
+   - Product
+   - Order amount
+   - Date
+   - Source
+4. Upload offline conversions into Meta Offline Events
+
+### Future Scaling Plan
+- Build WhatsApp custom audiences
+- Build ATC audiences
+- Build IC audiences
+- Build Purchaser audiences
+- Build Video Viewer audiences
+- Launch Lookalikes later
+
+---
+
+## Current Focus
+- Meta campaign monitoring
+- KPI / ROAS reporting
+- WhatsApp conversion tracking
+- Omnisend recovery optimisation
+- Creative testing:
+  - minimalist angle
+  - luxury angle
+- Daily campaign analysis
