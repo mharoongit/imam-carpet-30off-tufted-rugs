@@ -54,6 +54,8 @@ Track what needs to be done, what is in progress, and what is finished.
 - [x] Renamed misleading ad set naming structure for accurate reporting
 - [x] Identified likely purchase source from DPA retargeting ad set
 - [x] Prepared campaign performance reports for Shahzaib
+- [x] Wrote ad copies for Imaco ads
+- [x] Reviewed complete Imaco campaign screenshot sent by Emaan
 
 ---
 

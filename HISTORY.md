@@ -50,6 +50,10 @@
   - CAPI implementation
   - WhatsApp retargeting
 
+### Imaco Ads
+- Wrote ad copies for Imaco ads campaign.
+- Reviewed complete Imaco campaign screenshot sent by Emaan.
+
 ---
 
 ## 2026-05-23 — Haroon (Meta Campaign Live + Tracking Operations)
