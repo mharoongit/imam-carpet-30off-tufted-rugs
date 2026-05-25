@@ -4,28 +4,51 @@
 
 ---
 
-## 2026-05-25 — Haroon (Meta Tracking + Campaign Monitoring)
+## 2026-05-25 — Haroon (Meta Tracking + Optimization Operations)
 
-### Meta Pixel Verification
-- Verified all standard events firing:
-  - PageView, ViewContent, Search, AddToCart, InitiateCheckout, Purchase
-- Purchase EMQ: 9.3/10 — confirmed excellent match quality
+### Meta Pixel + Purchase Tracking
+- Verified Purchase event firing successfully in Meta Events Manager.
+- Confirmed Meta Pixel tracking:
+  - PageView
+  - ViewContent
+  - Search
+  - AddToCart
+  - InitiateCheckout
+  - Purchase
 
-### WhatsApp Conversion Tracking
-- Created WhatsApp Click custom conversion in Meta (URL contains wa.me rule)
-- Added WhatsAppClick custom pixel event to Shopify theme.liquid
-- Identified that Interakt button renders inside an iframe — blocking pixel detection
-- Further investigation needed to track Interakt button clicks via Meta Pixel
+### WhatsApp Tracking
+- Created Meta custom conversion:
+  - WhatsApp Click
+- Configured rule:
+  - URL contains wa.me
+- Added direct Meta Pixel WhatsAppClick custom event tracking inside Shopify theme.liquid.
 
-### Campaign Monitoring
-- Reviewed Static, Video, and DPA ad set performance
-- Renamed ad sets for accurate reporting
-- Identified DPA retargeting ad set as likely purchase source
-- Prepared performance reports for Shahzaib
+### Omnisend + Recovery
+- Verified abandoned cart workflow active.
+- Verified checkout recovery workflow active.
+- Confirmed recovery trigger delays and exit conditions.
 
-### Omnisend + Interakt
-- Verified abandoned cart and checkout recovery workflows active
-- Verified Interakt Shopify integration and WhatsApp setup
+### Interakt
+- Verified Shopify integration active.
+- Verified WhatsApp support setup active.
+- Confirmed advanced abandoned cart workflow unavailable in current setup.
+
+### Campaign Analysis
+- Reviewed ad set level campaign performance.
+- Identified:
+  - Video ad set = highest CTR / engagement
+  - Static ad set = healthiest CPC + traffic quality
+  - DPA retargeting = most likely purchase source
+- Renamed misleading ad set naming structure for reporting clarity.
+
+### Reporting + Monitoring
+- Prepared Meta KPI / ROAS updates for Shahzaib.
+- Began active monitoring during campaign learning phase.
+- Prepared future plan for:
+  - Offline Events
+  - WhatsApp attribution
+  - CAPI implementation
+  - WhatsApp retargeting
 
 ---
 
