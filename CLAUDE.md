@@ -58,6 +58,27 @@ https://github.com/mharoongit/imam-carpet-30off-tufted-rugs/commit/fd5077160777f
 
 ---
 
+## 25 May 2026 — Haroon (Tracking + Optimization + WhatsApp Attribution)
+
+### Meta Purchase Tracking
+- Verified Purchase event successfully firing in Meta Events Manager.
+- Confirmed Meta can now optimize using purchase data.
+
+### WhatsApp Tracking Improvements
+- Created Meta custom conversion:
+  - WhatsApp Click
+- Rule:
+  - URL contains wa.me
+
+### Direct WhatsApp Pixel Event
+Added direct Meta Pixel event tracking in Shopify theme.liquid:
+
+```html
+fbq('trackCustom', 'WhatsAppClick')
+```
+
+---
+
 ## 22 May 2026 — Haroon (Eid Campaign Retargeting Setup)
 
 ### Campaign Setup Completed
