@@ -4,6 +4,31 @@
 
 ---
 
+## 2026-05-25 — Haroon (Meta Tracking + Campaign Monitoring)
+
+### Meta Pixel Verification
+- Verified all standard events firing:
+  - PageView, ViewContent, Search, AddToCart, InitiateCheckout, Purchase
+- Purchase EMQ: 9.3/10 — confirmed excellent match quality
+
+### WhatsApp Conversion Tracking
+- Created WhatsApp Click custom conversion in Meta (URL contains wa.me rule)
+- Added WhatsAppClick custom pixel event to Shopify theme.liquid
+- Identified that Interakt button renders inside an iframe — blocking pixel detection
+- Further investigation needed to track Interakt button clicks via Meta Pixel
+
+### Campaign Monitoring
+- Reviewed Static, Video, and DPA ad set performance
+- Renamed ad sets for accurate reporting
+- Identified DPA retargeting ad set as likely purchase source
+- Prepared performance reports for Shahzaib
+
+### Omnisend + Interakt
+- Verified abandoned cart and checkout recovery workflows active
+- Verified Interakt Shopify integration and WhatsApp setup
+
+---
+
 ## 2026-05-23 — Haroon (Meta Campaign Live + Tracking Operations)
 
 ### Jute Rugs Campaign

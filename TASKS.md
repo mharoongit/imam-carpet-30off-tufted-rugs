@@ -15,9 +15,11 @@ Track what needs to be done, what is in progress, and what is finished.
 - [ ] Continue creative testing:
   - minimalist angle
   - luxury angle
-- [ ] Monitor WhatsApp Click custom conversion activity
-- [ ] Perform live WhatsApp conversion testing
-- [ ] Test Omnisend abandoned cart recovery with real checkout flow
+- [ ] Continue monitoring ROAS and purchases during learning phase
+- [ ] Monitor WhatsAppClick event activity
+- [ ] Analyze ad-level creative performance after more data collection
+- [ ] Test live abandoned cart recovery flow
+- [ ] Review Imaco campaign after ad account access is shared
 - [ ] Build future offline conversion tracking workflow
 - [ ] Prepare Offline Events upload structure for Meta
 - [ ] Build WhatsApp custom audience later
@@ -26,6 +28,34 @@ Track what needs to be done, what is in progress, and what is finished.
 ---
 
 ## Done
+
+### Haroon — 25 May 2026 (Meta Tracking + Campaign Monitoring)
+
+- [x] Verified Purchase event firing in Meta Events Manager
+- [x] Verified Meta Pixel tracking:
+  - PageView
+  - ViewContent
+  - Search
+  - AddToCart
+  - InitiateCheckout
+  - Purchase
+- [x] Created WhatsApp Click custom conversion
+- [x] Configured custom conversion rule:
+  - URL contains wa.me
+- [x] Added direct WhatsAppClick Meta Pixel custom event in Shopify theme.liquid
+- [x] Verified Omnisend abandoned cart workflow configuration
+- [x] Verified Omnisend checkout recovery workflow configuration
+- [x] Verified Interakt Shopify integration
+- [x] Verified Interakt WhatsApp setup
+- [x] Reviewed ad set performance:
+  - Static
+  - Video
+  - DPA
+- [x] Renamed misleading ad set naming structure for accurate reporting
+- [x] Identified likely purchase source from DPA retargeting ad set
+- [x] Prepared campaign performance reports for Shahzaib
+
+---
 
 ### Haroon — 23 May 2026 (Tracking + Recovery + Live Operations)
 
