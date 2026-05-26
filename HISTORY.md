@@ -4,6 +4,44 @@
 
 ---
 
+## 2026-05-26 — Haroon (Campaign Optimization + Creative Scaling)
+
+### Campaign Analysis
+- Completed detailed ad set performance analysis for Eid 2026 Jute Rugs retargeting campaign.
+- Identified:
+  - Static ad set as strongest conversion performer
+  - Video ad set as highest engagement/CTR performer
+  - DPA retargeting as strongest high-intent audience
+
+### Budget Optimization
+- Reduced Video ad set budget due to:
+  - high frequency
+  - no purchase activity
+  - rising engagement-only behavior
+- Increased DPA retargeting budget for stronger warm audience reach.
+- Final structure:
+  - Static = 4k/day
+  - Video = 2.5k/day
+  - DPA = 3k/day
+
+### Funnel Review
+- Identified severe drop between AddToCart and InitiateCheckout.
+- Began planning Shopify checkout flow audit and mobile conversion optimization.
+
+### Creative Production
+- Created new Eid-focused static creatives for Meta testing.
+- Planned replacement/testing strategy for weak-performing Video ad set creatives.
+- Generated new AI luxury Jute Rug creatives for post-Eid campaigns.
+- Built new luxury-focused creative concepts for premium Pakistani audience targeting.
+
+### Tracking + Optimization
+- Verified Meta Purchase event firing correctly.
+- Verified WhatsAppClick event setup.
+- Continued ROAS, CTR, CPC, ATC, IC and purchase monitoring.
+- Prepared future WhatsApp retargeting and Offline Events strategy.
+
+---
+
 ## 2026-05-25 — Haroon (Meta Tracking + Optimization Operations)
 
 ### Meta Pixel + Purchase Tracking
