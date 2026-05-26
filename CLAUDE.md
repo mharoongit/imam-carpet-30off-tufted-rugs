@@ -58,6 +58,64 @@ https://github.com/mharoongit/imam-carpet-30off-tufted-rugs/commit/fd5077160777f
 
 ---
 
+## 26 May 2026 — Haroon (Campaign Optimization + Creative Strategy)
+
+### Meta Campaign Optimization
+- Reviewed complete Eid 2026 Jute Rugs retargeting campaign performance.
+- Identified:
+  - Static ad set as current conversion winner
+  - Video ad set as highest CTR/engagement performer
+  - DPA retargeting as strongest buyer-intent audience
+- Verified confirmed purchase attribution from Static ad set.
+
+### Budget Optimization
+Updated budget allocation:
+- Static Ad Set → PKR 4,000/day
+- Video Ad Set → PKR 2,500/day
+- DPA Retargeting → PKR 3,000/day
+
+Reasoning:
+- Static ad set generated confirmed purchase and strongest ROAS.
+- Video ad set showed strong CTR but high frequency and no purchase activity yet.
+- DPA retargeting audience showed stronger buyer intent and efficient CPC.
+
+### Funnel Analysis
+- Identified major funnel drop between AddToCart and InitiateCheckout.
+- Current funnel signals:
+  - 102 Add to Cart events
+  - Very low checkout initiation rate
+- Future focus:
+  - Shopify mobile checkout audit
+  - COD visibility
+  - Checkout friction reduction
+  - Eid delivery clarity
+
+### Creative Production
+- Created new Eid-focused static Meta creatives.
+- Planned creative replacement/testing strategy for Video Ad Set B if weak conversion trend continues.
+- Created new AI-generated luxury Jute Rug creatives for post-Eid campaigns.
+- Developed premium/luxury creative angles targeting high-end Pakistani audience.
+
+### WhatsApp + Tracking
+- Verified Purchase event firing successfully.
+- Verified WhatsAppClick custom event implementation.
+- Verified Meta Pixel tracking:
+  - PageView
+  - ViewContent
+  - Search
+  - AddToCart
+  - InitiateCheckout
+  - Purchase
+
+### Future Optimization Plan
+- Scale winning static creatives gradually.
+- Test WhatsApp-focused retargeting campaigns.
+- Build InitiateCheckout custom audience.
+- Implement Offline Events tracking for showroom + WhatsApp sales.
+- Implement Meta CAPI later.
+
+---
+
 ## 25 May 2026 — Haroon (Tracking + Optimization + WhatsApp Attribution)
 
 ### Meta Purchase Tracking
