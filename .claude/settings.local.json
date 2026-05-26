@@ -8,7 +8,15 @@
       "Bash(shopify auth *)",
       "Bash(shopify whoami *)",
       "mcp__claude_ai_META__ads_get_ad_accounts",
-      "WebFetch(domain:raw.githubusercontent.com)"
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "PowerShell(git *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "mcp__claude_ai_META__ads_get_datasets",
+      "mcp__claude_ai_META__ads_get_dataset_stats",
+      "mcp__claude_ai_META__ads_get_dataset_quality",
+      "mcp__claude_ai_Shopify__graphql_query"
     ]
   }
 }
