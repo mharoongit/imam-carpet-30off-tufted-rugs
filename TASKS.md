@@ -12,22 +12,47 @@ Track what needs to be done, what is in progress, and what is finished.
 - [ ] Daily ROAS reporting at 6pm
 - [ ] Monitor CTR / CPC / ATC / IC daily
 - [ ] Kill/pause ad sets below 1.5 ROAS by Day 4
-- [ ] Continue creative testing:
-  - minimalist angle
-  - luxury angle
-- [ ] Continue monitoring ROAS and purchases during learning phase
-- [ ] Monitor WhatsAppClick event activity
-- [ ] Analyze ad-level creative performance after more data collection
-- [ ] Test live abandoned cart recovery flow
+- [ ] Monitor ROAS after budget optimization
+- [ ] Monitor DPA performance after budget increase
+- [ ] Monitor Video ad set frequency
+- [ ] Test new Eid static creatives if Video ad set remains weak
+- [ ] Audit Shopify mobile checkout flow
+- [ ] Improve COD visibility on checkout/cart
+- [ ] Create InitiateCheckout custom audience
+- [ ] Build WhatsApp retargeting campaign
+- [ ] Implement Offline Events workflow
+- [ ] Plan Meta CAPI implementation
 - [ ] Review Imaco campaign after ad account access is shared
-- [ ] Build future offline conversion tracking workflow
-- [ ] Prepare Offline Events upload structure for Meta
 - [ ] Build WhatsApp custom audience later
 - [ ] Build Purchaser Lookalikes later
 
 ---
 
 ## Done
+
+### Haroon — 26 May 2026 (Campaign Optimization + Creative Scaling)
+
+- [x] Completed detailed ad set performance analysis
+- [x] Identified Static ad set as conversion winner
+- [x] Identified Video ad set as highest CTR performer
+- [x] Identified DPA as strongest buyer-intent audience
+- [x] Verified confirmed purchase attribution from Static ad set
+- [x] Optimized campaign budget structure:
+  - Static = 4k
+  - Video = 2.5k
+  - DPA = 3k
+- [x] Reduced Video ad set spend due to high frequency/no purchase trend
+- [x] Increased DPA retargeting budget
+- [x] Identified checkout funnel drop issue
+- [x] Planned Shopify mobile checkout audit
+- [x] Created new Eid-focused static creatives
+- [x] Created new AI-generated Jute Rug creatives
+- [x] Developed luxury-focused creative angles for Pakistani premium audience
+- [x] Planned future Video ad set replacement testing
+- [x] Continued Meta Pixel + Purchase event verification
+- [x] Continued WhatsAppClick tracking monitoring
+
+---
 
 ### Haroon — 25 May 2026 (Meta Tracking + Campaign Monitoring)
 
