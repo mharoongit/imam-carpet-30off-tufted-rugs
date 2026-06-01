@@ -58,6 +58,52 @@ https://github.com/mharoongit/imam-carpet-30off-tufted-rugs/commit/fd5077160777f
 
 ---
 
+## 01 June 2026 — Haroon (Post-Eid Ads Cleanup + Creative Production + Asaan Retail)
+
+### Post-Eid Campaign Cleanup
+- Monitored active Imam Carpets Meta campaigns.
+- Reviewed active ad copies after Eid.
+- Removed/updated Eid-related wording from active ad copies.
+- Ensured active campaign messaging is suitable for post-Eid period.
+
+### Creative Production
+- Created premium AI-based Jute Rugs collection creatives for Imam Carpets.
+- Prepared new Jute Rugs creatives for testing phase.
+- Created and shared Jute Rugs creative options for Ahsan Sir.
+- Creative direction:
+  - luxury Jute Rugs collection
+  - premium Pakistani audience
+  - modern home interior styling
+  - post-Eid home upgrade positioning
+  - rich/luxury visual appeal
+
+### Campaign Monitoring
+- Continued monitoring active Meta campaign performance.
+- Focus metrics:
+  - ROAS
+  - Purchases
+  - CTR
+  - CPC
+  - AddToCart
+  - InitiateCheckout
+  - DPA retargeting performance
+  - Static creative performance
+
+### Asaan Retail + Order Management
+- Attended Asaan Retail and order management meeting.
+- Learned initial order management workflow.
+- Reviewed basic process for handling orders through Asaan Retail.
+
+### Next Recommended Actions
+- Test premium Jute Rugs creatives in Meta campaigns.
+- Continue monitoring post-Eid performance.
+- Build new post-Eid ad copy angles.
+- Continue checkout/COD visibility improvements.
+- Review Asaan Retail flow after hands-on access.
+- Get Imaco Rugs ad account access for campaign monitoring and improvements.
+
+---
+
 ## 26 May 2026 — Haroon (Campaign Optimization + Creative Strategy)
 
 ### Meta Campaign Optimization
@@ -247,11 +293,10 @@ Future implementation planned for:
 ---
 
 ## Current Focus
-- Meta campaign monitoring
-- KPI / ROAS reporting
-- WhatsApp conversion tracking
-- Omnisend recovery optimisation
-- Creative testing:
-  - minimalist angle
-  - luxury angle
-- Daily campaign analysis
+- Post-Eid Meta campaign monitoring
+- KPI / ROAS reporting (ROAS, purchases, CTR, CPC, ATC, IC)
+- Testing new premium Jute Rugs creatives
+- Post-Eid ad copy cleanup and refresh
+- Asaan Retail order management workflow
+- Checkout/COD visibility improvements
+- Imaco Rugs ad account access and campaign review
