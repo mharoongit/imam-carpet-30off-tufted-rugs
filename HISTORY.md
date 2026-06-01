@@ -4,6 +4,48 @@
 
 ---
 
+## 2026-06-01 — Haroon (Post-Eid Campaign Cleanup + Creative Production + Asaan Retail)
+
+### Meta Ads Monitoring
+- Monitored active Imam Carpets Meta campaigns after Eid.
+- Reviewed post-Eid campaign status and ad performance.
+- Continued monitoring key KPIs:
+  - ROAS
+  - Purchases
+  - CTR
+  - CPC
+  - AddToCart
+  - InitiateCheckout
+
+### Post-Eid Ad Copy Cleanup
+- Reviewed active ad copies for outdated Eid messaging.
+- Removed/updated Eid-related text from active Imam Carpets ad copies.
+- Ensured campaign messaging is no longer Eid-specific after Eid ended.
+
+### Creative Production
+- Created premium AI-based Jute Rugs collection creatives for Imam Carpets.
+- Prepared new Jute Rugs creatives for testing phase.
+- Created Jute Rugs creative options for Ahsan Sir.
+- Focused creative direction on:
+  - premium Pakistani audience
+  - luxury home interiors
+  - post-Eid home upgrade angle
+  - high-end Jute Rugs collection presentation
+
+### Asaan Retail + Order Management
+- Attended meeting on Asaan Retail and order management.
+- Learned basic Asaan Retail order management workflow.
+- Reviewed order handling and operational discussion points with the team.
+
+### Next Focus
+- Test new premium Jute Rugs creatives in Meta campaigns.
+- Continue post-Eid performance monitoring.
+- Review DPA and Static ad set performance.
+- Continue improving checkout/order management workflow.
+- Get Imaco Rugs ad account access for monitoring and optimization.
+
+---
+
 ## 2026-05-26 — Haroon (Campaign Optimization + Creative Scaling)
 
 ### Campaign Analysis
