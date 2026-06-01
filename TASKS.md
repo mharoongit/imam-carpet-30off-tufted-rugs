@@ -8,27 +8,46 @@ Track what needs to be done, what is in progress, and what is finished.
 
 ### Haroon — Meta Ads + E-Commerce Operations
 
+- [ ] Test new premium Jute Rugs creatives in Meta campaigns
+- [ ] Continue post-Eid campaign performance monitoring
+- [ ] Monitor DPA retargeting performance
+- [ ] Monitor Static creative performance after post-Eid copy changes
+- [ ] Review Asaan Retail order management workflow again if access is shared
+- [ ] Document Asaan Retail process after hands-on usage
+- [ ] Continue checkout flow/COD visibility audit
+- [ ] Prepare new post-Eid ad copy angles for Jute Rugs
+- [ ] Get Imaco Rugs ad account access and review campaign
 - [ ] Daily budget check at 11am
 - [ ] Daily ROAS reporting at 6pm
 - [ ] Monitor CTR / CPC / ATC / IC daily
-- [ ] Kill/pause ad sets below 1.5 ROAS by Day 4
-- [ ] Monitor ROAS after budget optimization
-- [ ] Monitor DPA performance after budget increase
-- [ ] Monitor Video ad set frequency
-- [ ] Test new Eid static creatives if Video ad set remains weak
-- [ ] Audit Shopify mobile checkout flow
-- [ ] Improve COD visibility on checkout/cart
 - [ ] Create InitiateCheckout custom audience
 - [ ] Build WhatsApp retargeting campaign
 - [ ] Implement Offline Events workflow
 - [ ] Plan Meta CAPI implementation
-- [ ] Review Imaco campaign after ad account access is shared
 - [ ] Build WhatsApp custom audience later
 - [ ] Build Purchaser Lookalikes later
 
 ---
 
 ## Done
+
+### Haroon — 01 June 2026 (Post-Eid Ads Cleanup + Creative Production + Asaan Retail)
+
+- [x] Monitored active Imam Carpets Meta campaigns
+- [x] Reviewed Eid campaign performance after post-Eid transition
+- [x] Removed/updated Eid-related wording from active ad copies
+- [x] Audited active ad text to avoid outdated Eid messaging
+- [x] Created premium AI-based Jute Rugs collection creatives for Imam Carpets
+- [x] Prepared new Jute Rugs creatives for testing phase
+- [x] Created Jute Rugs creative options for Ahsan Sir
+- [x] Shared Jute Rugs creative work for review
+- [x] Attended Asaan Retail and order management meeting
+- [x] Learned basic Asaan Retail order management flow
+- [x] Reviewed order management process discussion points
+- [x] Continued planning post-Eid campaign optimization
+- [x] Continued monitoring ROAS, purchases, CTR, CPC, ATC and IC performance
+
+---
 
 ### Haroon — 26 May 2026 (Campaign Optimization + Creative Scaling)
 
