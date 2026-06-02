@@ -4,6 +4,56 @@
 
 ---
 
+## 2026-06-03 — Haroon (Campaign Monitoring + Asaan Retail Operations)
+
+### Campaign Performance
+
+* Total Orders reached 8.
+* Total Sales reached PKR 362,309.
+* Total Ad Spend reached PKR 94,092.
+* Estimated Business ROAS reached 3.85x.
+
+### Meta Ads Results
+
+* Meta attributed purchases increased to 4.
+* Meta purchase value reached PKR 153,965.
+* Meta ROAS reached 1.64x.
+* Campaign generated:
+
+  * 250 AddToCart events
+  * 10 InitiateCheckout events
+  * 3,577 Link Clicks
+  * 5.47% CTR
+
+### Ad Set Analysis
+
+* DPA Retargeting remained strongest purchase performer.
+* DPA generated 3 of 4 Meta-attributed purchases.
+* DPA achieved ROAS of 3.12x.
+
+### Operations
+
+* Managed Asaan Retail order workflow.
+* Reviewed pending, delivered and paid orders.
+* Updated order statuses.
+* Generated invoices for paid orders.
+* Coordinated order confirmations.
+* Investigated inventory-related fulfillment issues.
+
+### Meetings
+
+* Attended meeting with Shahzaib Sir.
+* Discussed order management and operational workflow.
+
+### Next Focus
+
+* Continue attribution monitoring.
+* Track offline conversions.
+* Improve checkout conversion rate.
+* Test new premium Jute Rugs creatives.
+
+---
+
 ## 2026-06-01 — Haroon (Post-Eid Campaign Cleanup + Creative Production + Asaan Retail)
 
 ### Meta Ads Monitoring
