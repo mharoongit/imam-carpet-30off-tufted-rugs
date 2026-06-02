@@ -8,28 +8,37 @@ Track what needs to be done, what is in progress, and what is finished.
 
 ### Haroon — Meta Ads + E-Commerce Operations
 
-- [ ] Test new premium Jute Rugs creatives in Meta campaigns
-- [ ] Continue post-Eid campaign performance monitoring
-- [ ] Monitor DPA retargeting performance
-- [ ] Monitor Static creative performance after post-Eid copy changes
-- [ ] Review Asaan Retail order management workflow again if access is shared
-- [ ] Document Asaan Retail process after hands-on usage
-- [ ] Continue checkout flow/COD visibility audit
-- [ ] Prepare new post-Eid ad copy angles for Jute Rugs
-- [ ] Get Imaco Rugs ad account access and review campaign
-- [ ] Daily budget check at 11am
-- [ ] Daily ROAS reporting at 6pm
-- [ ] Monitor CTR / CPC / ATC / IC daily
-- [ ] Create InitiateCheckout custom audience
-- [ ] Build WhatsApp retargeting campaign
-- [ ] Implement Offline Events workflow
+- [ ] Continue daily campaign monitoring
+- [ ] Continue ROAS reporting
+- [ ] Track Meta attribution updates
+- [ ] Track offline conversions
+- [ ] Test premium Jute Rugs creatives
+- [ ] Improve checkout conversion rate
+- [ ] Build Offline Events workflow
 - [ ] Plan Meta CAPI implementation
-- [ ] Build WhatsApp custom audience later
-- [ ] Build Purchaser Lookalikes later
+- [ ] Build WhatsApp retargeting campaign
+- [ ] Review Imaco Rugs campaign after access is shared
 
 ---
 
 ## Done
+
+### Haroon — 03 June 2026 (Campaign Monitoring + Asaan Retail Operations)
+
+- [x] Monitored Imam Carpets Meta campaigns
+- [x] Monitored ROAS, Purchases, CTR, CPC, ATC and Checkouts
+- [x] Reviewed campaign performance
+- [x] Tracked new orders and sales
+- [x] Tracked offline conversion activity
+- [x] Worked on Asaan Retail order management
+- [x] Reviewed order statuses
+- [x] Updated order statuses
+- [x] Generated invoices for paid orders
+- [x] Coordinated order confirmations
+- [x] Investigated inventory issues
+- [x] Attended meeting with Shahzaib Sir
+
+---
 
 ### Haroon — 01 June 2026 (Post-Eid Ads Cleanup + Creative Production + Asaan Retail)
 
