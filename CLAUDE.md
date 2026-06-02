@@ -58,6 +58,63 @@ https://github.com/mharoongit/imam-carpet-30off-tufted-rugs/commit/fd5077160777f
 
 ---
 
+## 03 June 2026 — Haroon (Campaign Monitoring + Asaan Retail Operations)
+
+### Business Results
+
+Current campaign performance:
+
+* Total Orders: 8
+* Total Sales: PKR 362,309
+* Total Ad Spend: PKR 94,092
+* Actual Business ROAS: 3.85x
+
+### Meta Ads Performance
+
+Latest Meta Ads data:
+
+* Meta Purchases: 4
+* Purchase Value: PKR 153,965
+* Meta ROAS: 1.64x
+* Reach: 27,342
+* Link Clicks: 3,577
+* CTR: 5.47%
+* CPC: PKR 26.31
+* Adds to Cart: 250
+* Checkouts Initiated: 10
+
+### Winning Ad Set
+
+DPA | Jute Product Viewers
+
+* Spend: PKR 32,984
+* Purchases: 3
+* Purchase Value: PKR 102,935
+* ROAS: 3.12x
+
+### Today's Work
+
+* Monitored active Meta campaigns
+* Monitored ROAS, Purchases, CTR, CPC, ATC and Checkouts
+* Tracked new sales and attribution
+* Worked on Asaan Retail order management
+* Reviewed order statuses
+* Updated order statuses
+* Generated invoices for paid orders
+* Coordinated order confirmations
+* Investigated inventory/fulfillment issues
+* Attended meeting with Shahzaib Sir
+
+### Current Focus
+
+* Continue campaign monitoring
+* Track offline conversions
+* Improve checkout conversion rate
+* Test premium Jute Rugs creatives
+* Review Imaco Rugs campaign after access is shared
+
+---
+
 ## 01 June 2026 — Haroon (Post-Eid Ads Cleanup + Creative Production + Asaan Retail)
 
 ### Post-Eid Campaign Cleanup
